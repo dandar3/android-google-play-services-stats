@@ -1,11 +1,14 @@
 ## google-play-services-stats
 
 Eclipse library project based on:<br/>
-https://maven.google.com/com/google/android/gms/play-services-stats/17.0.0/play-services-stats-17.0.0.aar
+https://maven.google.com/com/google/android/gms/play-services-stats/17.0.1/play-services-stats-17.0.1.aar
 
 **Import:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
-  https://raw.githubusercontent.com/dandar3/android-google-play-services-stats/17.0.0/.projectset
+  https://raw.githubusercontent.com/dandar3/android-google-play-services-stats/17.0.1/.projectset
 
 **Requires:**
 - `Android 9 (API 28) SDK Platform`
+
+**References:**
+- https://developers.google.com/android/guides/releases
